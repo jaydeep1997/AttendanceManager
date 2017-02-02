@@ -1,8 +1,13 @@
-Attendance Manager Android App
-
-https://play.google.com/store/apps/details?id=com.narula.jatin.attendancemanager
+========================================================Attendance Assist==================================================================
+Team: Paranoid.
+Jatin Narula
+Manveer Singh
+Jaydeep Khandelwal
 
 Features implemented --
+
+Note - Open tutorial from navigation bar to see how to use the app. 
+
 1)The app takes information of all your subjects in the current semester.
 2)The app takes information of all your classes in the current semester e.g.which class will 
   be held when and where.
@@ -19,3 +24,7 @@ Features implemented --
 13)Calendar view for easy tabular display.
 14)Time table.
 15)Iteractive and materialistic user interface.
+=============================================================================================================================================
+
+ 
+
