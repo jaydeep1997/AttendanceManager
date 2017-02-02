@@ -1,2 +1,0 @@
-# AttendanceManager
-Android App
